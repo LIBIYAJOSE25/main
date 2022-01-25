@@ -3,3 +3,6 @@
      Ready to Mergin
  
      Mergin status Here
+
+Text adding from branch 1
+ending of branch 1
